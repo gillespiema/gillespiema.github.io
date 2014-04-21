@@ -1,0 +1,31 @@
+body {
+    background-color: white
+}
+ 
+a {
+    text-align:center; 
+    vertical-align:middle; 
+    display:block;
+    font-weight:bold;
+    color:#FFFFFF;
+    background-color:#383838 ;
+    width:200px;
+    height:200px;
+    text-align:center;
+    margin:20px;
+    padding:40px;
+    text-decoration:none;
+}
+
+a:hover,a:active
+{
+    background-color:#707070;
+}
+
+a#Journalism { float: left;
+        position: relative;
+} 
+
+a#Work { float:right; 
+        position: relative;
+}

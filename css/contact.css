@@ -1,0 +1,31 @@
+div#maincontainer {
+    border: 10px gray; 
+    
+}
+    
+
+.logos {
+    padding-left: 10%;
+    float:left;
+    width: 10%;
+    margin-right: 2.5%;
+    
+}
+
+article.contact > p {
+    color:red
+        
+}
+
+p {
+    padding-left: 5%
+    
+}
+
+#get-in-touch {
+    font-size: 60px;
+    padding-left: 2.5%
+}
+
+h3 {
+    font-

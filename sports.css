@@ -1,0 +1,32 @@
+div#maincontainer {
+    text-align:center;
+}
+
+table#videotable {
+    border: 2px solid white;
+    display: inline-block;
+}
+
+table#videotable td {
+    padding:2px
+}
+
+h2 {
+    border-bottom: 2px solid black;
+    
+}
+
+#sportstitle {
+    border-bottom: 5px solid #dedede;
+}
+
+.video-with-caption {
+    border: 1px solid red;
+    float: left;
+    width: 29%;
+    margin-right: 2%;
+}
+
+.video-with-caption p {
+    font-size: 12px;
+}

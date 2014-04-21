@@ -1,0 +1,294 @@
+body {
+    margin:0;
+    padding:0;
+    height:100%;
+    background-color: #E6E0F9;
+	color: #080808;
+	font-family: "HelveticaNeue-Light";
+	font-weight: 300;
+	font-size: 15px;
+}
+
+#wrapper {
+    min-height:100%;
+    position:relative;
+    max-width:960px;
+    border:3px solid black;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#logo {
+    text-align:center;
+}
+    
+nav {
+	background-color: #000000;
+	border: 1px solid black;
+    border-bottom-left-radius:0px;
+	border-radius: 2px;
+	color: #F5F5F5;
+	display: block;
+	overflow: hidden;
+	max-width:960px;
+}
+
+nav ol {
+    text-align:center;
+	margin: 0px;
+	padding: 2px;
+}
+
+nav ol li {
+		display: inline-block;
+		list-style-type: none;
+		
+}
+		nav > ol > li > a {
+			color: #F5F5F5;
+			display: block;
+            text-decoration:none;
+			line-height: 5px;
+			padding: 0 60px;
+            font-size:22px;
+            
+		}
+
+nav > ol > li:hover > a {
+          color:#D8D8D8;
+        }
+
+#nav {
+    float:left;
+	background-color: #000000;
+	border: 1px solid black;
+	border-radius: 2px;
+	color: #F5F5F5;
+	display: block;
+	overflow: hidden;
+	max-width:960px;
+}
+
+#nav ol {
+    text-align:center;
+	margin: 0px;
+	padding: 2px;
+}
+
+#nav ol li {
+		display: inline-block;
+		list-style-type: none;
+		
+}
+		#nav > ol > li > a {
+			color: #F5F5F5;
+			display: block;
+            text-decoration:none;
+			line-height: 5px;
+			padding: 0 60px;
+            font-size:22px;
+            
+		}
+
+#nav > ol > li:hover > a {
+          color:#D8D8D8;
+        }
+
+
+a:hover,a:active
+{
+color:#D8D8D8 
+}
+
+#abouttext {
+    margin: 20px;
+    padding-top:-6px;
+}
+
+.headshot {
+    display:inline;
+    float:left;
+    
+}
+
+#resume {
+    text-align:center;
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
+#Workpage {
+    max-width:960px; 
+    border:6px solid black;
+    margin-left:auto;
+    margin-right:auto;
+}
+    
+#Robbie {
+    border: 6px black; 
+    position:relative;
+    padding-top: 3px; 
+    height: 0;
+    padding-bottom:15%;
+    margin-bottom:25px;
+    margin-right:2%;
+    border:6px solid black;
+    width:20%;
+    float:left;
+}
+
+#Fighter {
+    border: 6px solid blue;
+    width:20%;
+    float:right;
+    padding-top: 3px; 
+    height: 0;
+    padding-bottom:15%;
+    margin-bottom:25px;
+    margin-left:2%;
+   }
+
+#Walker {
+    width:25%;
+    float:right;
+}
+
+#lacrosse {
+    width:25%;
+    padding-top:10%;
+    margin-right:2%;
+    float:left;
+    position:relative;
+}
+
+#floats {
+    width:25%;
+    float:right;
+    position:relative;
+    padding-top: 3px; 
+    height: 0;
+    padding-bottom:15%;
+    margin-bottom:25px;
+    margin-left:2%;
+}
+
+#shooter {
+    width:25%;
+    padding-top: 3px; 
+    height: 0;
+    margin-bottom:25px;
+    margin-left:2%;
+    float:right;
+}
+
+#david {
+    width:25%;
+    padding-top: 3px; 
+    height: 0;
+    padding-bottom:15%;
+    margin-bottom:25px;
+    margin-left:2%;
+    float:left;
+}
+
+footer {
+    height:75px;
+    padding:0px;
+    max-width:960px;
+    background-color:white;
+    border: 6px black;
+}
+
+#nav {
+    margin-top:10px;
+    float:left;
+    width:100%;
+    
+}
+    
+
+    
+.clearer {
+    clear:both;
+    max-width:960px;
+}
+
+.logos {
+    margin-top:10px;
+    float:left;
+    padding-left:13%;
+    
+    width:10%;
+    
+}
+
+
+
+div#about {
+    float:left;
+    width:40%;
+    
+}
+#aboutlogo {
+    text-align:center
+}
+
+#whereismike {
+    width:40%;
+    text-align:center;
+}
+
+#whereheader {
+    text-align:center;
+    margin-right:110px;
+    margin-bottom:4px;
+}
+
+#resumepage {
+    border:6px solid black;
+    max-width:960px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#contactpage {
+    border:6px solid black;
+    max-width:960px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#titles {
+    border-bottom:1px solid black;
+    margin-top:6px;
+    margin-left:20px;
+    padding-bottom:0px;
+}
+
+#mascots {
+    position:absolute;
+    float:left; 
+    margin-left:70px;
+    margin-bottom:16px;
+   }
+
+form {
+    float:right;
+    padding:16px;
+    margin-right:70px;
+    margin-bottom:16px;
+    border: 1px solid gray;
+    width:400px;
+    height:300px;
+}
+
+textarea {
+    width:300px;
+    height:200px;
+}
+
+#Aboutmike {
+    text-align:center
+}
+
+
